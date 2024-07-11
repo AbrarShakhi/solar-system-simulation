@@ -32,4 +32,6 @@ Feel free to explore and experiment with different parameters! 🌏🪐☀️
 ![unstable system](<demo/Screenshot from 2024-06-19 13-00-40.png>)
 ![unstable system](<demo/Screenshot from 2024-06-19 13-00-53.png>)
 
+---
 
+> **_NOTE:_** If you have any suggestions feel free to pull requests or issue here.
