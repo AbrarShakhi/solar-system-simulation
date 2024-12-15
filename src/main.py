@@ -1,4 +1,5 @@
 from sys import exit
+print ('Hello world!')
 try:
     from src.constant import COLOR, WINDOW, FACTOR, FONT, PHYSICS
     from src.object import Object as Obj
